@@ -1,0 +1,7 @@
+name: FlyBan
+main: com.github.startzyp.deleteplugin.main
+version: 1.0
+author: githubzypstart
+commands:
+  flydelete:
+  mangaddped:

@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="DeletePlugin:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DeletePlugin_jar</output-path>
+    <root id="root">
+      <element id="archive" name="DeletePlugin.jar">
+        <element id="module-output" name="DeletePlugin" />
+      </element>
+    </root>
+  </artifact>
+</component>
